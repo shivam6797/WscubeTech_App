@@ -1,4 +1,4 @@
-# wscubetech_app
+# Wscubetech_App
 
 A new Flutter project.
 
